@@ -15,7 +15,8 @@ This project is a Streamlit application that analyzes the keyword density of a g
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/Keyword-Density-Checker.git
+    git clone https://github.com/yourusername/Keyword-Density-Checker.git](https://github.com/manpreet1
+71/Keyword-Density-Checker.git
     cd Keyword-Density-Checker
     ```
 
